@@ -53,7 +53,11 @@ const ThirdSection = () => {
       <StyledSection>
         <StyledContainer>
           <StyledImgContainer>
-            <StyledImage src={images.Room10} style={{ marginLeft: "200px" }} />
+            <StyledImage
+              src={images.Room10}
+              style={{ marginLeft: "200px" }}
+              alt="room"
+            />
           </StyledImgContainer>
           <StyledExplain>
             찾아주시는 고객님의 마음을 술잔처럼 채워주는
@@ -62,7 +66,11 @@ const ThirdSection = () => {
         </StyledContainer>
         <StyledContainer>
           <StyledImgContainer>
-            <StyledImage src={images.Room9} style={{ marginLeft: "200px" }} />
+            <StyledImage
+              src={images.Room9}
+              style={{ marginLeft: "200px" }}
+              alt="room"
+            />
           </StyledImgContainer>
           <StyledExplain>
             수원 전지역 모든 업소를 고객님의 상황과 성향에 맞게

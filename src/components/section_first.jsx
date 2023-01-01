@@ -44,7 +44,7 @@ const FirstSection = () => {
     <>
       <StyledSection>
         <StyledImageContainer>
-          <StyledImage src={images.MainImage} />
+          <StyledImage src={images.MainImage} alt="room" />
         </StyledImageContainer>
         <StyledCenter>
           <StyledButton>
