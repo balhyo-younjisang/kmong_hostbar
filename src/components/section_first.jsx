@@ -15,7 +15,7 @@ const StyledSection = styled.section`
 
 const StyledImageContainer = styled.div`
   width: 55vw;
-  height: 100vh;
+  height: 90vh;
 
   @media screen and (max-width: 728px) {
     width: 90vw;
