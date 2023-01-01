@@ -47,7 +47,7 @@ const FirstSection = () => {
           <StyledImage src={images.MainImage} alt="room" />
         </StyledImageContainer>
         <StyledCenter>
-          <StyledButton>
+          <StyledButton value="call">
             <StyledA href="tel:010-7762-0416">
               <FontAwesomeIcon icon={faPhone} style={{ paddingRight: "5px" }} />
               010-7762-0416

@@ -31,7 +31,7 @@ const StyledButton = styled.button`
 const CallButton = () => {
   return (
     <>
-      <StyledButton>
+      <StyledButton value="fixed-call">
         <StyledA href="tel:010-7762-0416">
           <FontAwesomeIcon icon={faPhone} />
         </StyledA>
