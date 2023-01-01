@@ -10,9 +10,9 @@ function App() {
   return (
     <>
       <Header />
-      <FirstSection />
       <SecondSection />
       <ThirdSection />
+      <FirstSection />
       <CallButton />
       <Footer />
     </>
