@@ -6,6 +6,7 @@ import { faPhone } from "@fortawesome/free-solid-svg-icons";
 import { StyledA } from "./callbutton";
 
 const StyledSection = styled.section`
+  height: 100vh;
   text-align: center;
   display: grid;
   align-items: center;
