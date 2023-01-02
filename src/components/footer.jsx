@@ -11,6 +11,7 @@ const StyledFooter = styled.footer`
   align-content: center;
   justify-content: center;
   color: white;
+  margin-top: 300px;
 `;
 
 const Footer = () => {

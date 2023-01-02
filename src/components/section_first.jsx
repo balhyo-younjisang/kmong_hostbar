@@ -11,7 +11,7 @@ const StyledSection = styled.section`
   display: grid;
   align-items: center;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 200px;
 `;
 
 const StyledImageContainer = styled.div`
