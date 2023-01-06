@@ -39,10 +39,10 @@ const FourthSection = () => {
       <h3>최저가 주대금액</h3>
       <h3>즐거운 술자리를 만들어드립니다</h3>
       <StyledImageContainer>
-        <StyledImage src={images.Room3} />
-        <StyledImage src={images.Room4} />
-        <StyledImage src={images.Room8} />
-        <StyledImage src={images.Room6} />
+        <StyledImage src={images.Room3} alt="room"/>
+        <StyledImage src={images.Room4} alt="room" />
+        <StyledImage src={images.Room8} alt="room"/>
+        <StyledImage src={images.Room6} alt="room"/>
       </StyledImageContainer>
     </StyledSection>
   );
