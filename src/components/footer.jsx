@@ -21,6 +21,7 @@ const Footer = () => {
       <StyledA
         href="https://www.instagram.com/suwonkaraoke06/"
         target={"_blank"}
+        rel="noopener noreferrer"
       >
         <BsInstagram></BsInstagram>
       </StyledA>
